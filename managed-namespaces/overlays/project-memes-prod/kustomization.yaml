@@ -3,7 +3,6 @@ kind: Kustomization
 
 namespace: project-memes-prod
 bases:
-bases:
 - ./project-memes-dev
 - ./project-memes-prod
 
